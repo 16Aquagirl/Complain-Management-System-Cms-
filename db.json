@@ -1,0 +1,125 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ritika Philip",
+      "email": "ritikaphilip2000@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Shivam Raghuwanshi",
+      "email": "shivi11@gmail.com",
+      "password": "shivi11"
+    },
+    {
+      "id": 3,
+      "name": "Twinkle Solanki",
+      "email": "solankitwinkle32@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "Pragya Singh",
+      "email": "pragya18@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "darshan raval",
+      "email": "darshu@123gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Shivam Raghuwanshi",
+      "email": "shivi@11gmail.com",
+      "password": "bhawwwbhawww",
+      "id": 6
+    },
+    {
+      "name": "Shivii",
+      "email": "shivam11@gmail.com",
+      "password": "shiviii",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "Itsme",
+      "email": "itsme@123gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "name": "Justin Johnson",
+      "email": "justin12@gmail.com",
+      "password": "007",
+      "id": 10
+    }
+  ],
+  "stucomplain": [
+    {
+      "stuid": 1,
+      "complain": "Large no of students in class result in less attention from the teacher ",
+      "ans": "Okay we'll change the batches",
+      "id": 1
+    },
+    {
+      "stuid": 2,
+      "complain": "Wifi is not working properly",
+      "ans": "Use ur own hotspot then",
+      "id": 2
+    },
+    {
+      "stuid": 3,
+      "complain": "internet not not working properly",
+      "ans": "We are working on it",
+      "id": 3
+    },
+    {
+      "stuid": 4,
+      "complain": "there is no internet in my classroom\nand also tv is not working",
+      "ans": "ohhhh i see",
+      "id": 4
+    },
+    {
+      "stuid": 1,
+      "complain": "Questions that wasn't covered in the lectures and notes was in exam. ",
+      "ans": "This is what teachers mesant to do Stop being smart and start studying",
+      "id": 5
+    },
+    {
+      "stuid": 2,
+      "complain": "Long duration of classes introduce a lack of interest in lessons",
+      "ans": "okkkk ok\n",
+      "id": 6
+    },
+    {
+      "stuid": 1,
+      "complain": "no class today",
+      "ans": "",
+      "id": 7
+    },
+    {
+      "stuid": 1,
+      "complain": "wifi is not working thik krvaa k do ",
+      "ans": "okkkkk we will do something",
+      "id": 8
+    }
+  ],
+  "adminuser": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "adminisme",
+      "email": "itsme@123gmail.com",
+      "password": "321"
+    }
+  ]
+}
